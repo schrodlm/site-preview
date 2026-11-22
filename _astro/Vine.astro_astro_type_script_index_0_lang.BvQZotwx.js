@@ -1,0 +1,1 @@
+import"./life.DSd3X94u.js";

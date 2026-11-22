@@ -1,0 +1,1 @@
+var e={start:80,ticks:100},t={start:220,ticks:20};function n(e,{start:t,ticks:n}){let r=Math.floor(e/240),i=e%240;return i<t?{at:r,flight:null}:i<t+n?{at:r,flight:(i-t)/n}:{at:r+1,flight:null}}var r=e=>n(e,t),i=t=>n(t,e);function a(e){let t=e/4;return .7*Math.sin(t*.55)+.3*Math.sin(t*.21)}export{r as n,a as r,i as t};

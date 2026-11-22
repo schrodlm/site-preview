@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matěj Schrödl</title>
+    <link>https://schrodlm.github.io/site-preview/</link>
+    <description>My posts, the newest first.</description>
+    <atom:link href="https://schrodlm.github.io/site-preview/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why is formal verification so problematic</title>
+      <link>https://schrodlm.github.io/site-preview/posts/why-is-formal-verification-so-problematic/</link>
+      <guid isPermaLink="true">https://schrodlm.github.io/site-preview/posts/why-is-formal-verification-so-problematic/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>An unexamined habit</title>
+      <link>https://schrodlm.github.io/site-preview/posts/an-unexamined-habit/</link>
+      <guid isPermaLink="true">https://schrodlm.github.io/site-preview/posts/an-unexamined-habit/</guid>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modernisms hidden in Fortran</title>
+      <link>https://schrodlm.github.io/site-preview/posts/modernisms-hidden-in-fortran/</link>
+      <guid isPermaLink="true">https://schrodlm.github.io/site-preview/posts/modernisms-hidden-in-fortran/</guid>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instruction 101</title>
+      <link>https://schrodlm.github.io/site-preview/posts/what-is-an-instruction/</link>
+      <guid isPermaLink="true">https://schrodlm.github.io/site-preview/posts/what-is-an-instruction/</guid>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turing machines and whatnot</title>
+      <link>https://schrodlm.github.io/site-preview/posts/turing-machine/</link>
+      <guid isPermaLink="true">https://schrodlm.github.io/site-preview/posts/turing-machine/</guid>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
